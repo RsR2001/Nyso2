@@ -10,3 +10,5 @@ Tivemos que refazer do zero hoje.
 -Handlebars funcionando
 -Cadastro de usuário funcionando (Dados enviando para o banco, não temos autenticação de login)
 -Registro de lotes funcionando (Dados enviando para o banco.)
+
+Alnos: Chrystian Richards, Theofilo Henrique, Thiago Veloso, Raul dos Santos.
